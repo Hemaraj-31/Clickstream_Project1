@@ -1,4 +1,5 @@
 Clickstream: E-commerce Conversion Funnel Analysis — README
+
 📝 Project Overview
 
 This Power BI project analyzes user behavior using clickstream data collected from an e-commerce platform. The goal is to understand customer journey patterns, identify funnel drop-offs, and improve overall conversion.
